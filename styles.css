@@ -1,0 +1,26 @@
+body{
+  background-color:#2A324B;
+  color:#F7C59F;
+  font-family: Monospace;
+}
+
+h1{
+  text-align:center;
+}
+
+#center{
+  border: 15px #767B91 solid;
+  background-color:#E1E5EE;
+  margin: auto;
+  padding:6px;
+  justify-content:center;
+  display:flex;
+  align-items:center;
+}
+#change-due,p{
+ 
+  padding:6px;
+  justify-content:center;
+  display:flex;
+  align-items:center;
+}
